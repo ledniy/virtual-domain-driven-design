@@ -117,3 +117,10 @@ books:
     level: all
     tags:
       - strategic-design
+  - level: all
+    author: Gregory Young
+    img: ../images/books/hero.png
+    title: Versioning in an Event Sourced System
+    tags:
+      - eventsourcing
+      - cqrs/es
